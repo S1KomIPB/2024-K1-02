@@ -1,2 +1,2 @@
-# Capstone-K1
-Recommendation System for Career
+# Capstone-K1-02
+Recommendation System for IT Career
